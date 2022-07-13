@@ -8,6 +8,7 @@
 3. Using mySQL
 4. Template and Design structure should go with attached theme: [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/releases)
 - This allows us use charts, UI, specifies our forms, etc
+- Another template we can use to bootstrap quickly is:[PlainADmin](https://plainadmin.com/download)
 5. Authentication:
 6. Email & SMS: SMTP & Mnotify
 7. IAAS: Heroku, auto deploy to heroku.
